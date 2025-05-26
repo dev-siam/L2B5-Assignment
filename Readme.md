@@ -1,4 +1,4 @@
-# Top 10 QNA about PostgreSQL
+# Some Important QNA about PostgreSQL
 ![ PostgreSQL](https://cdn.prod.website-files.com/618a899ac6938d341ce4004a/66daee6bfda6d0cf86708ce0_66cd9c4595881a51fb1104d6_6464b93f55b890753f513589_what%252520is%252520postgresql.webp)
 # 1. What is PostgreSQL?
 
@@ -104,7 +104,7 @@ CREATE TABLE sightings (
 ---
 
 
-## 4. VARCHAR ও CHAR প্রধান কি?
+# 4. VARCHAR ও CHAR প্রধান কি?
 ![](https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2023_01_MicrosoftTeams-image-247.jpg)
 
 * `CHAR(n)` হলে নির্ধিস্টিত n লেংথের fixed-length string স্টোর করে।
